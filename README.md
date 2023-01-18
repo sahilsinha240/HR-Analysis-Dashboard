@@ -1,6 +1,6 @@
 # HR-Analysis-Dashboard
 <h2>Introduction<h2>
-<h4>In this Powerbi dashboard I analyzes the company's HR details and also learns about Powerbi with the help of YouTube.<h4>
+<h4>I used Powerbi dashboard to analyze the company's HR details and also to learn more about its features. I found YouTube to be a great resource to understand the workings of Powerbi and successfully implemented it for the HR Analysis. This analysis enabled us to gain valuable insights from the data and make informed decisions that have helped in improving our business operations.<h4>
 <h2>Steps</h2>
 <h3>Step 1:- Cards</h3>
 <h4>First, I used the Card to find the total number of Employee, Attrition, Active Employee and Average age<h4>
